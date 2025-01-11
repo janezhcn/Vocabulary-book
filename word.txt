@@ -1,0 +1,3 @@
+fly=飞
+chicken=鸡
+be=是（原形）
